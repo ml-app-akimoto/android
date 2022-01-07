@@ -1,4 +1,4 @@
-package jp.mydns.kokoichi206.mlapp
+package jp.mydns.kokoichi206.mlapp.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
